@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSProjeDemo1", "CSProjeDemo1\CSProjeDemo1.csproj", "{77E1E21E-3619-4917-AC10-53F78C26B289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneWinForms", "KutuphaneWinForms\KutuphaneWinForms.csproj", "{D4855FE0-0926-4960-9E27-A0C5A977DF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E1E21E-3619-4917-AC10-53F78C26B289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E1E21E-3619-4917-AC10-53F78C26B289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E1E21E-3619-4917-AC10-53F78C26B289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E1E21E-3619-4917-AC10-53F78C26B289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4855FE0-0926-4960-9E27-A0C5A977DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4855FE0-0926-4960-9E27-A0C5A977DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4855FE0-0926-4960-9E27-A0C5A977DF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4855FE0-0926-4960-9E27-A0C5A977DF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9EE303A-73BC-4592-ACEE-19882224E29E}
+	EndGlobalSection
+EndGlobal
